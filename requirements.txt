@@ -1,0 +1,7 @@
+Flask
+Flask-Session
+requests
+psycopg2
+Gunicorn
+pillow
+rembg
